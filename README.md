@@ -8,6 +8,9 @@ Measurements of temporal correlation, synchronisation and representational struc
 - **Conditional sensitivity.** Whether a controlled change to the system produces a consistent change in the measurement when the input is held fixed, measured by paired comparison on two scales, repeated over independent realisations of the intervention.
 - **Validity and persistence.** Whether the evidence supports the property the measurement is supposed to capture, with scale-free organisation measured by the DFA exponent as the worked example and the same template instantiated for a synchronisation measure, and whether the activity continues when the input is removed.
 
+<img width="2092" height="753" alt="Figure3" src="https://github.com/user-attachments/assets/17da0bd4-96ce-415f-a0ec-5e0d91b2180a" />
+
+
 This repository contains the notebook that reproduces every experiment of the accompanying paper, together with the inlined `cinn-audit` library it depends on.
 
 ## What does this show?
